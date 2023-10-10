@@ -1,16 +1,14 @@
-# task
+# E-Commerce App
 
-A new Flutter project.
+This is a Flutter-based e-commerce app that allows users to browse and purchase products online.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Product browsing: Users can view a list of products, search for specific products, and view product details.
 
-A few resources to get you started if this is your first Flutter project:
+# Requirements
+To run this app, you need:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Flutter SDK (version 2.0.0 or higher)
+-Dart programming language
+-An API that provides the necessary endpoints for product data, and order management.
